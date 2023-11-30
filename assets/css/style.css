@@ -990,7 +990,7 @@ section {
 }
 
 .counts .image {
-  background: url("../img/4.png") center center no-repeat;
+  background: url("") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
